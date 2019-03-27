@@ -1,0 +1,11 @@
+第二个文件>>2.txt
+
+git init
+
+
+
+
+
+git add
+echo 第二个文件
+第二个文件
